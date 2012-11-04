@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PROG NAME="ZHELLO_WORLD" VARCL="X" DBAPL="S" SUBC="1" RMAND="001" FIXPT="X" LDBNAME="D$S" UCCHECK="X">
+ <textPool>
+  <language SPRAS="E">
+   <textElement ID="R" ENTRY="Hello World" LENGTH="11 "/>
+  </language>
+ </textPool>
+ <source>REPORT  zhello_world.
+
+WRITE: / &apos;Hello World!&apos;.</source>
+</PROG>
