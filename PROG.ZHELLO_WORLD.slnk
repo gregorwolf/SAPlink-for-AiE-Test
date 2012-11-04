@@ -7,5 +7,7 @@
  </textPool>
  <source>REPORT  zhello_world.
 
-WRITE: / &apos;Hello World!&apos;.</source>
+WRITE: / &apos;Hello World!&apos;.
+&quot; Let&apos;s see how diffs for Slinkees look like on GitHub
+WRITE: / &apos;Hallo Welt!&apos;.</source>
 </PROG>
